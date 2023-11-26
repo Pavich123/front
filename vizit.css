@@ -1,0 +1,92 @@
+p+img{
+    font-weight: bold;
+    background-color: #333;
+    color: #fff;
+    padding: .5em;
+}
+
+
+h1 ~ p {
+    font-weight: bold;
+    background-color: #333;
+    color: #fff;
+    padding: .5em;
+}
+
+.form_caption:hover{
+    background-color: red;
+}
+
+a{
+    background-color: rgb(229, 167, 167);
+}
+
+
+.final_button:focus{
+    background-color: green;
+}
+
+h1::first-letter{
+    color: purple;
+    font-style: italic;
+}
+
+.form_x{
+    background-color: rgb(222, 202, 202);
+}
+
+
+.article_x{
+    background-color: rgb(236, 156, 156);
+}
+
+
+.table_x{
+    background-color: rgb(70, 42, 42);
+    color: #fff;
+}
+
+.head{
+    display: flex;
+}
+.nav_info{
+    display: inline;
+    background-color: rgb(207, 255, 51);
+    color: #fff;
+    border-radius: 10px;
+    font-size: 20px;
+}
+
+img{
+    transform: rotate(180deg);
+}
+
+.final_info{
+    color:yellow;
+    font-size: 20px;
+    font-style: oblique;
+    border: dashed 5px rgb(3, 52, 36);
+    background-color: rgb(167, 112, 112);
+    width: 400px;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    box-shadow: 10px 5px 5px green;
+}
+
+.final_info_2{
+    color:yellow;
+    font-size: 20px;
+    font-style:normal;
+    border: dashed 5px rgb(6, 20, 56);
+    background:linear-gradient(blue, pink);
+    width: 400px;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    box-shadow: 10px 5px 5px green;
+}
+
+.text_info{
+    box-shadow: 10px 5px 5px rgb(153, 232, 15);
+}

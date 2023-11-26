@@ -1,0 +1,269 @@
+.header{
+    height: 185px;
+    background-color: #585F0B;
+}
+
+.footer{
+    height: 185px;
+    background-color: #585F0B;
+}
+
+.main{
+    
+    background-color: #C3EEB8;
+}
+
+.sec1{
+    height: 106px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.header{
+    display:flex;
+    justify-content: space-around;
+}
+.sect1{
+    display:flex;
+    align-items: center;
+}
+
+.sect2{
+    display:flex;
+    align-items: center;
+}
+
+.sect3{
+    display:flex;
+    align-items: center;
+}
+
+.headerRect{
+    width: 570px;
+    height: 114px;
+    background-color: #D9D9D9;
+    color: #585F0B;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.circle{
+    width: 128px;
+    height: 128px;
+    border-radius: 50%;
+    background-color: #D9D9D9;
+    color: #585F0B;
+    font-size: 40px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+.loop{
+    mix-blend-mode: darken;
+    height: 50px;
+    width: 69px;
+}
+
+.corz{
+    mix-blend-mode: darken;
+    height: 154px;
+    width: 231px;
+}
+
+.image{
+    width: 164px;
+    height: 175px;
+    mix-blend-mode: darken;
+}
+
+.image1{
+    width: 234px;
+    height: 175px;
+    mix-blend-mode: darken;
+}
+
+.image2{
+    width: 164px;
+    height: 175px;
+    mix-blend-mode: darken;
+    margin-left: 10px;
+}
+.image3{
+    width: 244px;
+    height: 175px;
+    mix-blend-mode: darken;
+}
+
+.image4{
+    width: 150px;
+    height: 150px;
+    mix-blend-mode: darken;
+    margin-right: 20px;
+}
+
+
+
+.house{
+    width: 126px;
+    height: 126px;
+    mix-blend-mode: darken;
+}
+
+.line{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 296px;
+}
+
+.rect1{
+    height: 86px;
+    width: 586px;
+    background-color: #585F0B;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.inputText{
+    background-color: #585F0B;
+    height: 50px;
+    width: 450px;
+    color:#D9D9D9;
+    font-size: 32px;
+    
+}
+
+input::placeholder{
+    color: #D9D9D9;
+}
+
+
+.rect2{
+    display: flex;
+    width: 285px;
+    height: 86px;
+    background-color: #585F0B;
+    border-radius: 10px;
+    color: #D9D9D9;
+    font-size: 32px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.filter{
+    width: 71px;
+    height: 71px;
+    mix-blend-mode: darken;
+}
+
+.foot1{
+    display: flex;
+    justify-content: space-around;
+    height: 100px;
+    align-items: center;
+}
+.soc1{
+    display: flex;
+    justify-content: space-between;
+}
+.inst{
+    height: 56px;
+    width: 56px;
+    mix-blend-mode: darken;
+}
+.socrect1{
+    height: 58px;
+    width: 225px;
+    background-color: #D9D9D9;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 24px;
+    border-radius: 10px;
+    margin-left: 10px;
+    
+}
+.superRect{
+    width: 437px;
+    height: 260px;
+    background-color: #585F0B;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 48px;
+    color: #D9D9D9;
+    text-align: center;
+    margin-left: 80px;
+   
+    
+}
+
+
+.superRect1{
+    width: 437px;
+    height: 260px;
+    background-color: #585F0B;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 48px;
+    color: #D9D9D9;
+    text-align: center;
+    margin-left: 20px;
+   
+    
+}
+
+
+.alpha{
+    margin-top: 50px;
+    color: #585F0B;
+    font-size: 40px;
+    text-align: center;
+}
+
+
+.triangle{
+    height: 140px;
+    width: 140px;
+    mix-blend-mode: darken;
+}
+.rectSec1{
+    display: flex;
+    align-items: center;
+    
+}
+
+
+.alpha1{
+    margin-right: 20px;
+    margin-top: 50px;
+    color: #585F0B;
+    font-size: 40px;
+    text-align: center;
+}
+
+
+.foot2{
+    font-size: 24px;
+    color:#D9D9D9;
+    display: flex;
+    justify-content: center;
+    
+}
+.foot2text{
+
+    margin-top: 50px;
+}
